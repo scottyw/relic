@@ -47,6 +47,7 @@ An email showing two randomly chosen links from Pinboard.
 
 * The HTML template is terrible. I cobbled it together with no skill and if you have insight on how to tweak it in an email-friendly manner I am interested!
 * The error handling is basic but should be enough to diagnose issues
+* GitHub scheduled workflows are disabled automatically after 60 days of repository inactivity
 
 ### Thanks
 
